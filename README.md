@@ -11,3 +11,5 @@ setup
 4. add commit 
 
 5. push go to github
+
+test how to user the  user name,on git . learn what is diffrent by name
