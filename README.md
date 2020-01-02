@@ -13,3 +13,5 @@ setup
 5. push go to github
 
 test how to user the  user name,on git . learn what is diffrent by name
+
+changge to another user name
